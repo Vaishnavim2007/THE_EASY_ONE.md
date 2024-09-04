@@ -1,5 +1,5 @@
 # **MISC**
-# *THE_EASY_ONE*
+# THE_EASY_ONE
 METHOD: <BR/>
 •	The attached file chall.zip contains an image with embedded hidden messages. To extract these messages, we will utilize online steganography tools <br/>
 •	By uploading the extracted image to the Steg Solver tool, which will generate a QR code containing the hidden message  <br/>
